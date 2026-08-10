@@ -14,6 +14,9 @@ CSE-AIML Student • Full-Stack Developer • AI/ML Builder
   <a href="https://github.com/vasu20050?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-Explore-181717?logo=github&logoColor=white" alt="Repositories" />
   </a>
+  <a href="https://github.com/vasu20050?tab=stars">
+    <img src="https://img.shields.io/github/stars/vasu20050?label=Total%20Stars&style=flat" alt="Total stars" />
+  </a>
 </p>
 
 <p>
@@ -142,38 +145,65 @@ Frontend & AI/ML
 
 <div align="center">
 
-<a href="https://github.com/vasu20050">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=vasu20050&theme=github-dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://neofetch-profile.vercel.app/api?username=vasu20050&theme=github-light">
-    <img alt="GitHub profile statistics" src="https://neofetch-profile.vercel.app/api?username=vasu20050&theme=github-light" width="700">
-  </picture>
-</a>
+👨‍💻 GitHub Overview
 
-<br><br>
+<table>
+<tr>
+<td width="70%">
 
 <a href="https://github.com/vasu20050">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vasu20050&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vasu20050&theme=github_dark" width="100%" alt="Vaibhav Sharma GitHub contribution activity" />
 </a>
+
+</td>
+<td width="30%">
+
 <a href="https://github.com/vasu20050">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasu20050&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vasu20050&theme=github_dark" width="100%" alt="Vaibhav Sharma GitHub statistics" />
 </a>
 
-<br><br>
+</td>
+</tr>
+</table>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=vasu20050&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Contribution Streak" />
-</a>
-
-</div>
+<br>
 
 📈 Contribution Activity
 
-<div align="center">
+<a href="https://github.com/vasu20050">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vasu20050&bg_color=0d1117&color=79b8ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Vaibhav%27s%20Contribution%20Activity" width="100%" alt="GitHub contribution activity graph" />
+</a>
+
+<br><br>
+
+🔥 Contribution Streak
 
 <a href="https://github.com/vasu20050">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vasu20050&theme=github-compact&hide_border=true&area=true&custom_title=Vaibhav%27s%20Contribution%20Activity" alt="GitHub contribution activity graph" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=vasu20050&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=F78166&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub contribution streak" />
 </a>
+
+<br><br>
+
+💻 Top Languages
+
+<table>
+<tr>
+<td width="50%">
+
+<a href="https://github.com/vasu20050">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vasu20050&theme=github_dark" width="100%" alt="Top languages by repository" />
+</a>
+
+</td>
+<td width="50%">
+
+<a href="https://github.com/vasu20050">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vasu20050&theme=github_dark" width="100%" alt="Top languages by commits" />
+</a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -198,12 +228,6 @@ Full-Stack Development  █████████████████░  
 Computer Vision         ██████████████░░░░  Exploring
 Open Source             ████████████░░░░░░  Contributing
 System Design           ████████░░░░░░░░░░  Learning
-
-🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vasu20050&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub trophies" />
-</p>
 
 📫 Let's Connect
 
