@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Vaibhav Sharma
+👋 Hi, I'm Vaibhav Sharma
 
-### `CSE-AIML Student` • `Full-Stack Developer` • `AI/ML Builder`
+CSE-AIML Student • Full-Stack Developer • AI/ML Builder
 
 <p>
   <a href="https://github.com/vasu20050">
@@ -24,48 +24,43 @@
 
 </div>
 
----
+🧑‍💻 About Me
 
-## 🧑‍💻 About Me
-
-```text
 🎓 CSE student specializing in AI & Machine Learning
 🛠️ Building full-stack applications and AI-powered products
 🤖 Interested in Computer Vision, AI/ML, automation & developer tools
 🌱 Currently sharpening my backend, system design and ML skills
 🚀 I like turning hackathon ideas into working products
 📍 Delhi Technical Campus, India
-```
 
-> I build things to learn how they actually work — not just to collect technologies.
+I build things to learn how they actually work — not just to collect technologies.
 
----
-
-## 🚀 Featured Projects
+🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔥 SkillForge
-**Campus Skill Economy**
+🔥 SkillForge
+
+Campus Skill Economy
 
 A campus-exclusive peer skill marketplace where students exchange skills through a credit-based system, with reputation, escrow-style credit locking, disputes and verified proof-of-work.
 
-**Stack:** React • Tailwind • Node.js • Express • MongoDB • JWT • Cloudinary
+Stack: React • Tailwind • Node.js • Express • MongoDB • JWT • Cloudinary
 
-<a href="https://github.com/vasu20050/skillForge">Repository ↗</a> •
-<a href="https://skill-forge-chi.vercel.app/">Live Demo ↗</a>
+<a href="https://github.com/vasu20050/skillForge">Repository ↗</a> •<a href="https://skill-forge-chi.vercel.app/">Live Demo ↗</a>
 
 </td>
 <td width="50%">
 
-### 💃 Kaladristhi
-**AI Classical Dance Learning**
+💃 Kaladristhi
+
+AI Classical Dance Learning
 
 A MediaPipe-powered learning application for classical Indian dance with real-time pose detection, interactive lessons and pose feedback.
 
-**Stack:** HTML/CSS/JS • MediaPipe Holistic • Computer Vision
+Stack: HTML/CSS/JS • MediaPipe Holistic • Computer Vision
 
 <a href="https://github.com/vasu20050/Kaladristhi">Repository ↗</a>
 
@@ -75,8 +70,9 @@ A MediaPipe-powered learning application for classical Indian dance with real-ti
 <tr>
 <td width="50%">
 
-### 🥗 Nutri-Alchemy
-**AI Nutrition Concept**
+🥗 Nutri-Alchemy
+
+AI Nutrition Concept
 
 An AI-driven idea focused on turning meal images into useful nutrition insights and personalized guidance.
 
@@ -85,8 +81,9 @@ An AI-driven idea focused on turning meal images into useful nutrition insights 
 </td>
 <td width="50%">
 
-### 🛡️ NexusDAST
-**Web Application Security**
+🛡️ NexusDAST
+
+Web Application Security
 
 An advanced web application vulnerability scanner designed to help identify security issues in web applications.
 
@@ -98,8 +95,9 @@ An advanced web application vulnerability scanner designed to help identify secu
 <tr>
 <td width="50%">
 
-### 🧠 ManoShaanti
-**AI Mental Wellness Platform**
+🧠 ManoShaanti
+
+AI Mental Wellness Platform
 
 A student-focused AI wellness platform concept combining conversational AI, journaling, mood tracking and interactive wellness features.
 
@@ -108,8 +106,9 @@ A student-focused AI wellness platform concept combining conversational AI, jour
 </td>
 <td width="50%">
 
-### 🕺 Dance Teacher using ML
-**Computer Vision Project**
+🕺 Dance Teacher using ML
+
+Computer Vision Project
 
 A web-based project exploring machine-learning/computer-vision techniques for dance learning and pose feedback.
 
@@ -119,28 +118,27 @@ A web-based project exploring machine-learning/computer-vision techniques for da
 </tr>
 </table>
 
----
+🧰 Tech Stack
 
-## 🧰 Tech Stack
+Languages
 
-### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,html,css" alt="Languages" />
 </p>
 
-### Backend, Databases & DevOps
+Backend, Databases & DevOps
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,docker,git,linux,bash,aws" alt="Backend and DevOps" />
 </p>
 
-### Frontend & AI/ML
+Frontend & AI/ML
+
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flask,django,opencv,pytorch,firebase" alt="Frontend and AI ML" />
 </p>
 
----
-
-## 📊 GitHub Analytics
+📊 GitHub Analytics
 
 <div align="center">
 
@@ -169,9 +167,7 @@ A web-based project exploring machine-learning/computer-vision techniques for da
 
 </div>
 
----
-
-## 📈 Contribution Activity
+📈 Contribution Activity
 
 <div align="center">
 
@@ -181,44 +177,35 @@ A web-based project exploring machine-learning/computer-vision techniques for da
 
 </div>
 
----
-
-## 🐍 Contribution Snake
+🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vasu20050/vasu20050/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vasu20050/vasu20050/output/github-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/vasu20050/vasu20050/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/vasu20050/vasu20050/output/github-snake.svg" alt="GitHub contribution snake animation" width="100%">
 </picture>
 
 </div>
-
 ---
 
-## 🎯 What I'm Focused On
+🎯 What I'm Focused On
 
-```text
 AI / ML                 ███████████████░░░  Learning + Building
 Backend Development     ████████████████░░  Building
 Full-Stack Development  █████████████████░  Building
 Computer Vision         ██████████████░░░░  Exploring
 Open Source             ████████████░░░░░░  Contributing
 System Design           ████████░░░░░░░░░░  Learning
-```
 
----
-
-## 🏆 GitHub Achievements
+🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vasu20050&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub trophies" />
 </p>
 
----
-
-## 📫 Let's Connect
+📫 Let's Connect
 
 <p align="center">
   <a href="mailto:vaibhavsharma04814@gmail.com">
@@ -232,74 +219,11 @@ System Design           ████████░░░░░░░░░░  
   </a>
 </p>
 
----
-
 <div align="center">
 
-### ⚡ Build → Break → Learn → Repeat
+⚡ Build → Break → Learn → Repeat
 
 <i>Thanks for visiting my profile!</i>
 
 </div>
 
-
----
-
-## 🐍 Snake Animation Setup
-
-> **Important:** GitHub Actions cannot execute workflow YAML from inside `README.md`. The workflow below is included here for reference, but if you want the snake to **automatically regenerate**, GitHub requires it to live at `.github/workflows/snake.yml`. This is a GitHub limitation, not a README limitation. citeturn0search3turn0search0
-
-The README above displays the generated snake from the `output` branch:
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vasu20050/vasu20050/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vasu20050/vasu20050/output/github-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/vasu20050/vasu20050/output/github-snake.svg">
-</picture>
-
-### Workflow used to generate it
-
-```yaml
-name: Generate Contribution Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Generate snake animations
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Publish snake to output branch
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-          force_orphan: true
-          commit_message: "chore: update contribution snake"
-```
-
-For the animation to actually update, keep this exact workflow as:
-
-```text
-.github/workflows/snake.yml
-```
-
-The `Platane/snk/svg-only@v3` action is the current recommended approach for generating the SVG animation. citeturn0search1turn0search2
