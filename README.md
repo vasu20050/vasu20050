@@ -1,40 +1,305 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Sharma</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vasu20050&label=Profile%20views&color=0e75b6&style=flat" alt="vasu20050" /> </p>
+# 👋 Hi, I'm Vaibhav Sharma
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vasu20050" alt="vasu20050" /></a> </p>
+### `CSE-AIML Student` • `Full-Stack Developer` • `AI/ML Builder`
 
-<p align="left"> <a href="https://twitter.com/vaibhavxsharma6" target="blank"><img src="https://img.shields.io/twitter/follow/vaibhavxsharma6?logo=twitter&style=for-the-badge" alt="vaibhavxsharma6" /></a> </p>
-
-- 🔭 I’m currently working on [Kaladrishti](https://github.com/vasu20050/Kaladristhi)
-
-- 🌱 I’m currently learning **AIML**
-
-- 👯 I’m looking to collaborate on [Parakh_AI](https://github.com/vasu20050/Parakh_AI)
-
-- 🤝 I’m looking for help with [Parakh_AI](https://github.com/vasu20050/Parakh_AI)
-
-- 💬 Ask me about **Full Stack DEV**
-
-- 📫 How to reach me **vaibhavsharma04814@gmail.com**
-
-- ⚡ Fun fact **I think I'm curious to learn things**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vaibhavxsharma6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaibhavxsharma6" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vaibhav-sharma-075b2932a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaibhav-sharma-075b2932a/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/pvt_vaibhav_31/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pvt_vaibhav_31/" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/vaibhavsharma04814" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/vaibhavsharma04814" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/GN9AEtPjP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/GN9AEtPjP" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/vasu20050">
+    <img src="https://komarev.com/ghpvc/?username=vasu20050&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+  <a href="https://github.com/vasu20050?tab=followers">
+    <img src="https://img.shields.io/github/followers/vasu20050?label=Followers&style=flat" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/vasu20050?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-181717?logo=github&logoColor=white" alt="Repositories" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p>
+  <a href="https://github.com/vasu20050"><img src="https://img.shields.io/badge/GitHub-vasu20050-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/vaibhav-sharma-075b2932a/"><img src="https://img.shields.io/badge/LinkedIn-Vaibhav%20Sharma-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/pvt_vaibhav_31/"><img src="https://img.shields.io/badge/Instagram-pvt__vaibhav__31-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vasu20050&show_icons=true&locale=en&layout=compact" alt="vasu20050" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vasu20050&show_icons=true&locale=en" alt="vasu20050" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasu20050&" alt="vasu20050" /></p>
+## 🧑‍💻 About Me
+
+```text
+🎓 CSE student specializing in AI & Machine Learning
+🛠️ Building full-stack applications and AI-powered products
+🤖 Interested in Computer Vision, AI/ML, automation & developer tools
+🌱 Currently sharpening my backend, system design and ML skills
+🚀 I like turning hackathon ideas into working products
+📍 Delhi Technical Campus, India
+```
+
+> I build things to learn how they actually work — not just to collect technologies.
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔥 SkillForge
+**Campus Skill Economy**
+
+A campus-exclusive peer skill marketplace where students exchange skills through a credit-based system, with reputation, escrow-style credit locking, disputes and verified proof-of-work.
+
+**Stack:** React • Tailwind • Node.js • Express • MongoDB • JWT • Cloudinary
+
+<a href="https://github.com/vasu20050/skillForge">Repository ↗</a> •
+<a href="https://skill-forge-chi.vercel.app/">Live Demo ↗</a>
+
+</td>
+<td width="50%">
+
+### 💃 Kaladristhi
+**AI Classical Dance Learning**
+
+A MediaPipe-powered learning application for classical Indian dance with real-time pose detection, interactive lessons and pose feedback.
+
+**Stack:** HTML/CSS/JS • MediaPipe Holistic • Computer Vision
+
+<a href="https://github.com/vasu20050/Kaladristhi">Repository ↗</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🥗 Nutri-Alchemy
+**AI Nutrition Concept**
+
+An AI-driven idea focused on turning meal images into useful nutrition insights and personalized guidance.
+
+<a href="https://github.com/vasu20050/Nutri-Alchemy">Repository ↗</a>
+
+</td>
+<td width="50%">
+
+### 🛡️ NexusDAST
+**Web Application Security**
+
+An advanced web application vulnerability scanner designed to help identify security issues in web applications.
+
+<a href="https://github.com/vasu20050/NexusDAST">Repository ↗</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 ManoShaanti
+**AI Mental Wellness Platform**
+
+A student-focused AI wellness platform concept combining conversational AI, journaling, mood tracking and interactive wellness features.
+
+<a href="https://github.com/vasu20050/manoshaanti">Repository ↗</a>
+
+</td>
+<td width="50%">
+
+### 🕺 Dance Teacher using ML
+**Computer Vision Project**
+
+A web-based project exploring machine-learning/computer-vision techniques for dance learning and pose feedback.
+
+<a href="https://github.com/vasu20050/dance-teacher-using-ML">Repository ↗</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,html,css" alt="Languages" />
+</p>
+
+### Backend, Databases & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,docker,git,linux,bash,aws" alt="Backend and DevOps" />
+</p>
+
+### Frontend & AI/ML
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flask,django,opencv,pytorch,firebase" alt="Frontend and AI ML" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/vasu20050">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=vasu20050&theme=github-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://neofetch-profile.vercel.app/api?username=vasu20050&theme=github-light">
+    <img alt="GitHub profile statistics" src="https://neofetch-profile.vercel.app/api?username=vasu20050&theme=github-light" width="700">
+  </picture>
+</a>
+
+<br><br>
+
+<a href="https://github.com/vasu20050">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vasu20050&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/vasu20050">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasu20050&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</a>
+
+<br><br>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=vasu20050&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Contribution Streak" />
+</a>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/vasu20050">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vasu20050&theme=github-compact&hide_border=true&area=true&custom_title=Vaibhav%27s%20Contribution%20Activity" alt="GitHub contribution activity graph" width="100%" />
+</a>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vasu20050/vasu20050/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vasu20050/vasu20050/output/github-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/vasu20050/vasu20050/output/github-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 🎯 What I'm Focused On
+
+```text
+AI / ML                 ███████████████░░░  Learning + Building
+Backend Development     ████████████████░░  Building
+Full-Stack Development  █████████████████░  Building
+Computer Vision         ██████████████░░░░  Exploring
+Open Source             ████████████░░░░░░  Contributing
+System Design           ████████░░░░░░░░░░  Learning
+```
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vasu20050&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub trophies" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:vaibhavsharma04814@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/vaibhav-sharma-075b2932a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/vasu20050">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ Build → Break → Learn → Repeat
+
+<i>Thanks for visiting my profile!</i>
+
+</div>
+
+
+---
+
+## 🐍 Snake Animation Setup
+
+> **Important:** GitHub Actions cannot execute workflow YAML from inside `README.md`. The workflow below is included here for reference, but if you want the snake to **automatically regenerate**, GitHub requires it to live at `.github/workflows/snake.yml`. This is a GitHub limitation, not a README limitation. citeturn0search3turn0search0
+
+The README above displays the generated snake from the `output` branch:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vasu20050/vasu20050/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vasu20050/vasu20050/output/github-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/vasu20050/vasu20050/output/github-snake.svg">
+</picture>
+
+### Workflow used to generate it
+
+```yaml
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate snake animations
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Publish snake to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          force_orphan: true
+          commit_message: "chore: update contribution snake"
+```
+
+For the animation to actually update, keep this exact workflow as:
+
+```text
+.github/workflows/snake.yml
+```
+
+The `Platane/snk/svg-only@v3` action is the current recommended approach for generating the SVG animation. citeturn0search1turn0search2
