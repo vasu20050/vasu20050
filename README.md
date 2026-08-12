@@ -1,8 +1,8 @@
 <div align="center">
 
-👋 Hi, I'm Vaibhav Sharma
+# 👋 Hi, I'm Vaibhav Sharma
 
-CSE-AIML Student • Full-Stack Developer • AI/ML Builder
+### `CSE-AIML Student` • `Full-Stack Developer` • `AI/ML Builder`
 
 <p>
   <a href="https://github.com/vasu20050">
@@ -27,43 +27,48 @@ CSE-AIML Student • Full-Stack Developer • AI/ML Builder
 
 </div>
 
-🧑‍💻 About Me
+---
 
+## 🧑‍💻 About Me
+
+```text
 🎓 CSE student specializing in AI & Machine Learning
 🛠️ Building full-stack applications and AI-powered products
 🤖 Interested in Computer Vision, AI/ML, automation & developer tools
 🌱 Currently sharpening my backend, system design and ML skills
 🚀 I like turning hackathon ideas into working products
 📍 Delhi Technical Campus, India
+```
 
-I build things to learn how they actually work — not just to collect technologies.
+> I build things to learn how they actually work — not just to collect technologies.
 
-🚀 Featured Projects
+---
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-🔥 SkillForge
-
-Campus Skill Economy
+### 🔥 SkillForge
+**Campus Skill Economy**
 
 A campus-exclusive peer skill marketplace where students exchange skills through a credit-based system, with reputation, escrow-style credit locking, disputes and verified proof-of-work.
 
-Stack: React • Tailwind • Node.js • Express • MongoDB • JWT • Cloudinary
+**Stack:** React • Tailwind • Node.js • Express • MongoDB • JWT • Cloudinary
 
-<a href="https://github.com/vasu20050/skillForge">Repository ↗</a> •<a href="https://skill-forge-chi.vercel.app/">Live Demo ↗</a>
+<a href="https://github.com/vasu20050/skillForge">Repository ↗</a> •
+<a href="https://skill-forge-chi.vercel.app/">Live Demo ↗</a>
 
 </td>
 <td width="50%">
 
-💃 Kaladristhi
-
-AI Classical Dance Learning
+### 💃 Kaladristhi
+**AI Classical Dance Learning**
 
 A MediaPipe-powered learning application for classical Indian dance with real-time pose detection, interactive lessons and pose feedback.
 
-Stack: HTML/CSS/JS • MediaPipe Holistic • Computer Vision
+**Stack:** HTML/CSS/JS • MediaPipe Holistic • Computer Vision
 
 <a href="https://github.com/vasu20050/Kaladristhi">Repository ↗</a>
 
@@ -73,9 +78,8 @@ Stack: HTML/CSS/JS • MediaPipe Holistic • Computer Vision
 <tr>
 <td width="50%">
 
-🥗 Nutri-Alchemy
-
-AI Nutrition Concept
+### 🥗 Nutri-Alchemy
+**AI Nutrition Concept**
 
 An AI-driven idea focused on turning meal images into useful nutrition insights and personalized guidance.
 
@@ -84,9 +88,8 @@ An AI-driven idea focused on turning meal images into useful nutrition insights 
 </td>
 <td width="50%">
 
-🛡️ NexusDAST
-
-Web Application Security
+### 🛡️ NexusDAST
+**Web Application Security**
 
 An advanced web application vulnerability scanner designed to help identify security issues in web applications.
 
@@ -98,9 +101,8 @@ An advanced web application vulnerability scanner designed to help identify secu
 <tr>
 <td width="50%">
 
-🧠 ManoShaanti
-
-AI Mental Wellness Platform
+### 🧠 ManoShaanti
+**AI Mental Wellness Platform**
 
 A student-focused AI wellness platform concept combining conversational AI, journaling, mood tracking and interactive wellness features.
 
@@ -109,9 +111,8 @@ A student-focused AI wellness platform concept combining conversational AI, jour
 </td>
 <td width="50%">
 
-🕺 Dance Teacher using ML
-
-Computer Vision Project
+### 🕺 Dance Teacher using ML
+**Computer Vision Project**
 
 A web-based project exploring machine-learning/computer-vision techniques for dance learning and pose feedback.
 
@@ -121,31 +122,32 @@ A web-based project exploring machine-learning/computer-vision techniques for da
 </tr>
 </table>
 
-🧰 Tech Stack
+---
 
-Languages
+## 🧰 Tech Stack
 
+### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,html,css" alt="Languages" />
 </p>
 
-Backend, Databases & DevOps
-
+### Backend, Databases & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,docker,git,linux,bash,aws" alt="Backend and DevOps" />
 </p>
 
-Frontend & AI/ML
-
+### Frontend & AI/ML
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flask,django,opencv,pytorch,firebase" alt="Frontend and AI ML" />
 </p>
 
-📊 GitHub Analytics
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-👨‍💻 GitHub Overview
+### 👨‍💻 GitHub Overview
 
 <table>
 <tr>
@@ -168,7 +170,7 @@ Frontend & AI/ML
 
 <br>
 
-📈 Contribution Activity
+### 📈 Contribution Activity
 
 <a href="https://github.com/vasu20050">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vasu20050&bg_color=0d1117&color=79b8ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Vaibhav%27s%20Contribution%20Activity" width="100%" alt="GitHub contribution activity graph" />
@@ -176,7 +178,7 @@ Frontend & AI/ML
 
 <br><br>
 
-🔥 Contribution Streak
+### 🔥 Contribution Streak
 
 <a href="https://github.com/vasu20050">
   <img src="https://streak-stats.demolab.com/?user=vasu20050&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=F78166&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub contribution streak" />
@@ -184,7 +186,7 @@ Frontend & AI/ML
 
 <br><br>
 
-💻 Top Languages
+### 💻 Top Languages
 
 <table>
 <tr>
@@ -207,29 +209,43 @@ Frontend & AI/ML
 
 </div>
 
-🐍 Contribution Snake
+---
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vasu20050/vasu20050/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vasu20050/vasu20050/output/github-snake.svg">
-  <img src="https://raw.githubusercontent.com/vasu20050/vasu20050/output/github-snake.svg" alt="GitHub contribution snake animation" width="100%">
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/vasu20050/vasu20050/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/vasu20050/vasu20050/output/github-contribution-grid-snake.svg">
+  <img
+    src="https://raw.githubusercontent.com/vasu20050/vasu20050/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake animation"
+    width="100%"
+  />
 </picture>
 
 </div>
+
 ---
 
-🎯 What I'm Focused On
+## 🎯 What I'm Focused On
 
+```text
 AI / ML                 ███████████████░░░  Learning + Building
 Backend Development     ████████████████░░  Building
 Full-Stack Development  █████████████████░  Building
 Computer Vision         ██████████████░░░░  Exploring
 Open Source             ████████████░░░░░░  Contributing
 System Design           ████████░░░░░░░░░░  Learning
+```
 
-📫 Let's Connect
+---
+
+## 📫 Let's Connect
 
 <p align="center">
   <a href="mailto:vaibhavsharma04814@gmail.com">
@@ -243,9 +259,11 @@ System Design           ████████░░░░░░░░░░  
   </a>
 </p>
 
+---
+
 <div align="center">
 
-⚡ Build → Break → Learn → Repeat
+### ⚡ Build → Break → Learn → Repeat
 
 <i>Thanks for visiting my profile!</i>
 
