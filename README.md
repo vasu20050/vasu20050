@@ -303,21 +303,45 @@ A web-based ML/CV project exploring pose estimation and feedback mechanisms for 
 
 ---
 
-## 🐍 Contribution Snake
+## 🏙️ GitHub Skyline — My Commits as a 3D City
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/vasu20050/vasu20050/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/vasu20050/vasu20050/output/github-contribution-grid-snake.svg">
+> _Every bar is a day of commits. Every tower is a streak. This is my coding city._ 🌆
+
+<a href="https://skyline.github.com/vasu20050/2025">
+  <img src="https://img.shields.io/badge/🏙️_View_My_3D_Skyline-2025-58A6FF?style=for-the-badge&labelColor=0D1117" alt="GitHub Skyline 2025" />
+</a>
+&nbsp;
+<a href="https://skyline.github.com/vasu20050/2024">
+  <img src="https://img.shields.io/badge/🏙️_View_My_3D_Skyline-2024-79B8FF?style=for-the-badge&labelColor=0D1117" alt="GitHub Skyline 2024" />
+</a>
+
+<br/><br/>
+
+<!-- Skyline embed — 3D interactive contribution city -->
+<a href="https://skyline.github.com/vasu20050/2025">
   <img
-    src="https://raw.githubusercontent.com/vasu20050/vasu20050/output/github-contribution-grid-snake.svg"
-    alt="GitHub contribution snake animation"
+    src="https://skyline.github.com/vasu20050/2025.png"
+    alt="Vaibhav's GitHub Skyline 2025 — 3D contribution city"
     width="100%"
+    style="border-radius: 12px;"
   />
-</picture>
+</a>
+
+<br/>
+
+```
+       ⬛⬛⬛      🏢🏢🏢🏢🏢     ⬛🏢⬛      🏢🏢🏢🏢     ⬛🏢🏢🏢⬛
+       🏢🏢🏢      🏢⬛⬛⬛⬛     🏢🏢🏢     🏢⬛⬛⬛⬛     🏢⬛⬛⬛🏢
+       🏢🏢🏢      🏢🏢🏢🏢⬛     🏢⬛🏢     🏢🏢🏢🏢⬛     🏢🏢🏢🏢🏢
+       🏢⬛🏢      🏢⬛⬛⬛⬛     🏢⬛🏢     🏢⬛⬛⬛⬛     🏢⬛⬛⬛🏢
+       🏢🏢🏢      🏢🏢🏢🏢🏢     🏢⬛🏢     🏢🏢🏢🏢     🏢⬛⬛⬛🏢
+    ═══════════════════════════════════════════════════════════
+             V    A    S    U    2    0    0    5    0
+```
+
+_Click the buttons above to explore your interactive 3D Skyline on GitHub!_ 🚀
 
 </div>
 
