@@ -15,18 +15,13 @@ jobs:
     name: Generate 3D Contribution Graph
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: 10
-          SETTING_JSON: |
-            {
-              "backgroundColor": "#0D1117",
-              "type": "night-rainbow"
-            }
 
       - name: Commit & Push 3D SVG
         run: |
