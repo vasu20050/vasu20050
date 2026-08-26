@@ -303,45 +303,13 @@ A web-based ML/CV project exploring pose estimation and feedback mechanisms for 
 
 ---
 
-## 🏙️ GitHub Skyline — My Commits as a 3D City
+## 📊 3D Contribution Calendar
 
 <div align="center">
 
-> _Every bar is a day of commits. Every tower is a streak. This is my coding city._ 🌆
-
-<a href="https://skyline.github.com/vasu20050/2025">
-  <img src="https://img.shields.io/badge/🏙️_View_My_3D_Skyline-2025-58A6FF?style=for-the-badge&labelColor=0D1117" alt="GitHub Skyline 2025" />
+<a href="https://github.com/vasu20050">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar" />
 </a>
-&nbsp;
-<a href="https://skyline.github.com/vasu20050/2024">
-  <img src="https://img.shields.io/badge/🏙️_View_My_3D_Skyline-2024-79B8FF?style=for-the-badge&labelColor=0D1117" alt="GitHub Skyline 2024" />
-</a>
-
-<br/><br/>
-
-<!-- Skyline embed — 3D interactive contribution city -->
-<a href="https://skyline.github.com/vasu20050/2025">
-  <img
-    src="https://skyline.github.com/vasu20050/2025.png"
-    alt="Vaibhav's GitHub Skyline 2025 — 3D contribution city"
-    width="100%"
-    style="border-radius: 12px;"
-  />
-</a>
-
-<br/>
-
-```
-       ⬛⬛⬛      🏢🏢🏢🏢🏢     ⬛🏢⬛      🏢🏢🏢🏢     ⬛🏢🏢🏢⬛
-       🏢🏢🏢      🏢⬛⬛⬛⬛     🏢🏢🏢     🏢⬛⬛⬛⬛     🏢⬛⬛⬛🏢
-       🏢🏢🏢      🏢🏢🏢🏢⬛     🏢⬛🏢     🏢🏢🏢🏢⬛     🏢🏢🏢🏢🏢
-       🏢⬛🏢      🏢⬛⬛⬛⬛     🏢⬛🏢     🏢⬛⬛⬛⬛     🏢⬛⬛⬛🏢
-       🏢🏢🏢      🏢🏢🏢🏢🏢     🏢⬛🏢     🏢🏢🏢🏢     🏢⬛⬛⬛🏢
-    ═══════════════════════════════════════════════════════════
-             V    A    S    U    2    0    0    5    0
-```
-
-_Click the buttons above to explore your interactive 3D Skyline on GitHub!_ 🚀
 
 </div>
 
